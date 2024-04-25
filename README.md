@@ -14,7 +14,6 @@
 
 ---
 
-
 #### Warning ( I have disabled Google Cloud Console so some features of the application like ( image loading will not work ) but the code is there :)
 
 I have added some accounts just for checking , so to log in as admin -> ```admin@dopeshop.com``` and ```123123``` , 
